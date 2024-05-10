@@ -1,0 +1,20 @@
+.navbar {
+  background-color: #505050;
+}
+
+.navbar__list {
+  display: flex;
+  gap: 30px;
+  justify-content: end;
+}
+
+.navbar__item {
+  color: white;
+  display: inline-block;
+  padding-block: 3px;
+  border-bottom: 1px solid transparent;
+}
+
+.navbar__item:hover {
+  border-bottom: 1px solid white;
+}

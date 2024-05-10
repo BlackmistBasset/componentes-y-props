@@ -1,0 +1,13 @@
+.header {
+  background-color: #505050;
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.texto__bienvenida {
+  color: rgb(194, 139, 246);
+  white-space: nowrap;
+}
